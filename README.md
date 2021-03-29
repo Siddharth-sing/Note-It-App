@@ -15,5 +15,7 @@ Main features used :
 
 Made By Siddharth Singh Baghel
 
-#Update
+#Update on 28/03/2021
 1. Created the Launcher Activity for displaying welcome activity first.
+#Update on 29/03/2021
+2. Created the Info Activity for displaying creator's details.
