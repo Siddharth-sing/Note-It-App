@@ -9,8 +9,9 @@
         android:roundIcon="@drawable/bulb_png"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".InfoActivity"></activity>
-        <activity android:name=".MainActivity">
+        <activity android:name=".InfoActivity" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".LaunchActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
