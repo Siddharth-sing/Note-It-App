@@ -14,3 +14,6 @@ Main features used :
 3.Lottie Library -> For beautifying the UI using Lottey Animations
 
 Made By Siddharth Singh Baghel
+
+#Update
+1. Created the Launcher Activity for displaying welcome activity first.
