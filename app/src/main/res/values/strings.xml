@@ -2,4 +2,5 @@
     <string name="app_name">Note It!</string>
     <string name="enter_your_note_here">Enter Your Note Here</string>
     <string name="save">Save</string>
+    <string name="this_is_a_todo_list_app">This is a \'ToDo List App\'.</string>
 </resources>

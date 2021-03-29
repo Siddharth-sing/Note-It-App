@@ -1,13 +1,7 @@
-
-
-
-
-
-
-
 package com.example.notesSiddharth
 
 import android.content.Context
+import android.content.Intent
 import android.os.Bundle
 import android.view.View
 import android.view.inputmethod.InputMethodManager
@@ -55,5 +49,12 @@ class MainActivity : AppCompatActivity(), INotesRVAdapter {
             viewModel.insertNote(NoteEntity(noteText))
             Toast.makeText(this, "${noteText} Inserted", Toast.LENGTH_SHORT).show()
         }
+    }
+
+    fun showInfo(view: View)
+    {
+       // Toast.makeText(this,"Created By Siddharth Singh Baghel",Toast.LENGTH_SHORT).show()
+        val intent=Intent(this,InfoActivity::class.java)
+        startActivity(intent)
     }
 }
