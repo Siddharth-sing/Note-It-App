@@ -1,4 +1,5 @@
 # Note-It-App
+# Go to master branch to view project
 It is a To-Do List application.
 Main features used :
 1.Recycler View
